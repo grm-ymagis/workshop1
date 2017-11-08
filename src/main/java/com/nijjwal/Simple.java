@@ -10,6 +10,6 @@ public class Simple{
   }
   
   public int subtractTwoNumbers(int x, int y){
-	  return x*y;
+	  return x-y;
   }
 }
